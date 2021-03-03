@@ -1,0 +1,31 @@
+#main_body {
+  fill: rgb(255, 225, 0);
+}
+
+#small_circle_left {
+  stroke: black;
+  stroke-width: 1;
+  fill: bl;
+}
+
+#small_circle_right {
+  stroke: black;
+  stroke-width: 1;
+  fill: black;
+}
+
+#path {
+  stroke: black;
+  stroke-width: 1;
+  fill: transparent;
+}
+
+#mouth {
+  stroke: black;
+  stroke-width: 2;
+  fill: transparent;
+}
+
+#heart {
+  fill: red;
+}
